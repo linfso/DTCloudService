@@ -1,5 +1,1 @@
-1.ÏÈÈ·±£ÄãµçÄÔÒÑ¾­°²×°ÁËnodejs,Èç¹ûÃ»ÓÐÇëµ½http://www.nodejs.org/ÏÂÔØ²¢°²×°¡£
-2.ÔÚ±¾µØ´´½¨Êý¾Ý¿âmicroblog£¬½Å±¾Îª¸ùÄ¿Â¼µÄmicroblog.sqlÎÄ¼þ¡£
-3.´ËÏîÄ¿´ó²¿·Ö´úÂëÎª¡¶nodejs¿ª·¢Ö¸ÄÏ¡·(ÎÒµÄ×ÊÔ´ÖÐ¿ÉÒÔÏÂÔØ)ÊéÖÐ¿½±´£¬½ö¸ü¸ÄÎªmysqlÊý¾Ý¿âÁ¬½Ó¼°°æ±¾²»¼æÈÝÎÊÌâÐÞ¸´Îª±¾ÈËËùÐ´¡£
-
-------------»¶Ó­·ÃÎÊhttp://blog.csdn.net/somebodydie ÀïÃæÓÐ¹ØÓÚÏîÄ¿µÄ¼òµ¥ÃèÊö£¬ÓÐÎÊÌâ¿ÉÒÔÆÀÂÛ»òÕßÁôÑÔ£¬Ð»Ð»--------------------------------------
+1.å…ˆç¡®ä¿ä½ ç”µè„‘å·²ç»å®‰è£…äº†nodejs,å¦‚æžœæ²¡æœ‰è¯·åˆ°http://www.nodejs.org/ä¸‹è½½å¹¶å®‰è£…ã€‚
